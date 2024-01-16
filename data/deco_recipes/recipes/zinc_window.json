@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "deco_glass",
+  "pattern": [
+    "   ",
+    " # ",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "create:zinc_ingot"
+    },
+    "X": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "createdeco:zinc_window",
+    "count": 2
+  }
+}

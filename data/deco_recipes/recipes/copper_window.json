@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "deco_glass",
+  "pattern": [
+    "   ",
+    " # ",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "X": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "createdeco:copper_window",
+    "count": 2
+  }
+}
