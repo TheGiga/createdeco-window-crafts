@@ -13,5 +13,5 @@ createdeco:brass_window
 createdeco:zinc_window
 ```
 
-This datapack will become depreacated, once the [issue](https://github.com/talrey/CreateDeco/issues/106) is fixed.
+This datapack will become deprecated, once the [issue](https://github.com/talrey/CreateDeco/issues/106) is fixed.
 Alternatively, I suggest using something like KubeJS for more elegant fix, since i did the "brute-force" way by just adding alternative recipes.
